@@ -1,0 +1,78 @@
+html, body{
+    height: 100%;
+}
+
+.panel{
+    border: solid 1px white;
+}
+
+.panel-login{
+    margin-top: 200px;
+}
+
+.input-group{
+    margin: 10px;
+}
+
+.btn{
+    margin-left: 5px;
+}
+
+#grad{
+    background: linear-gradient(#0D47A1, #64B5F6);
+}
+
+.jumbotron{
+    background-color: #1976D2 !important;
+    color: white;
+    margin-bottom: 0px !important;  
+}
+
+.breadcrumb{
+    padding-left: 200px;
+    font-size: 18px;
+}
+
+.btn-sair{
+    margin: 3px 10px 3px 3px;;
+}
+
+.menu{
+    margin-top: 30px;
+    text-justify: distribute;
+}
+
+.panel-menu{
+    height: 180px;
+    border-color: #EEEEEE;
+}
+
+.panel-heading{
+    font-size: 18px;
+}
+
+.table{
+    width: 700px !important;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.panel-table{
+    background-color: #EEEEEE;
+    width: 720px;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+#search{
+    width: 500px;
+    margin-left: 400px;
+}
+
+.search{
+    margin-right:400px;
+}
+
+.search-func{
+    margin-top:20px;
+}
